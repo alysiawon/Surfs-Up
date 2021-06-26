@@ -12,13 +12,13 @@ The data preparation utilizes Python, Pandas functions and methods, and SQLAlche
 
 This analysis filters the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June.
 
-<img src="Analysis/June_Temps.png" width="500">
+<img src="Analysis/June_Temps.png" width="250">
 
 ### Analysis 2: Summary Statistics for December
 
 This analysis is identical to the June analysis, except it focuses on retrieving all the temperature data for the month of December.
 
-<img src="Analysis/December_Temps.png" width="500">
+<img src="Analysis/December_Temps.png" width="250">
 
 ### Key Results
 
