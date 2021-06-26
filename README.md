@@ -40,8 +40,8 @@ The recommdned additional queries to conduct are:
 
 1. **Precipitation Statistics** 
 
-    In this query, we can determine what month has the most precipitation. This can also effect whether or not the Surf and Ice Cream shop will have a lot of cutsomers as rain can hinder people from coming to the store. 
+    In this query, we can determine what month has the most precipitation. This can also effect whether or not the Surf n' Shake shop will have a lot of cutsomers as rain can hinder people from coming to the store. 
 
 2. **Additional Temperture Statistics**
 
-    In this analysis, we only looked at June and December statistics. It would be worthwhile to analyze the other months and see if there are any additional months that can prevent the opening of the Surf and Ice Cream shop. 
+    In this analysis, we only looked at June and December statistics. It would be worthwhile to analyze the other months and see if there are any additional months that can prevent the opening of the Surf n' Shake shop. 
